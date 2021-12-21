@@ -1,0 +1,4 @@
+*.vcd
+*.history
+*.dblite
+*.json
